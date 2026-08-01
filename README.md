@@ -9,7 +9,7 @@
 
 <pre><code class="language-cpp">cv::Researcher researcher("Juan Jesús");
 
-researcher.focus    = "Computer Vision";
+researcher.focus = "Computer Vision";
 researcher.research = "Efficient AI for real-world applications";
 </code></pre>
 
