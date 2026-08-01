@@ -32,6 +32,4 @@ and **ORCID**
   <img src="https://cdn.simpleicons.org/orcid" alt="ORCID" height="18" />
 </a>.
 
----
-
 **Interested in collaborating or discussing research?** Feel free to reach out via email at **[juanjesus.losada@um.es](mailto:juanjesus.losada@um.es)**.
