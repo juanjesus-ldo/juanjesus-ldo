@@ -27,9 +27,5 @@ You can find my publications on **Google Scholar**
 <a href="https://scholar.google.com/citations?user=ya4-2g4AAAAJ&hl=es" target="_blank">
   <img src="https://cdn.simpleicons.org/googlescholar" alt="Google Scholar" height="18" />
 </a>
-and **ORCID**
-<a href="https://orcid.org/0009-0005-8358-202X" target="_blank">
-  <img src="https://cdn.simpleicons.org/orcid" alt="ORCID" height="18" />
-</a>.
 
-**Interested in collaborating or discussing research?** Feel free to reach out via email at **[juanjesus.losada@um.es](mailto:juanjesus.losada@um.es)**.
+**Interested in collaborating or discussing research?** Feel free to reach out via email at **[juanjesus.losada@um.es](mailto:juanjesus.losada@um.es)**
